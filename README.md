@@ -1,3 +1,3 @@
-MY PERSONAL LEETCODE PROBLEM SOLUTIONS
+LeetCode Problem Solutions
 
 1. Two Sum : https://leetcode.com/problems/two-sum
